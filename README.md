@@ -10,5 +10,11 @@ This project demonstrates a dynamic investment fund accounting model built in Ex
 - Portfolio weight analysis
 - Cash reconciliation with discrepancy identification
 
+## NAV Model Preview
+![NAV Model](nav-model.png)
+
+## Cash Reconciliation Preview
+![Cash Reconciliation](cash-reconciliation.png)
+
 ## Tools Used
 - Microsoft Excel
